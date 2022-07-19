@@ -1,7 +1,7 @@
 # EmotionClassification
-Predicting The Emotion From A User's Twit (Advanced Data Mining Course Assignment)
+#### Predicting The Emotion From A User's Twit (Advanced Data Mining Course Assignment)
 
-The train and evaluation information of each model are in these codes below:
+Train and evaluation information of each model are in these codes below:
 BertCode.ipynb
 DistilBertCode.ipynb
 RobertaCode.ipynb
